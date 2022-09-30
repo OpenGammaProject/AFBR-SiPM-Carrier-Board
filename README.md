@@ -9,7 +9,7 @@ PCB size is 18 x 18 mm. You can buy all the parts and the PCB using [Kitspace](h
   <img alt="Back Side PCB" title="Back Side PCB" src="docs/sipm2.png" height="400px">
 </p>
 
-On the front side there is only the sensor itself while all the other parts are on the back. This ensures good optical contact and light-tight sealing. The unused SiPM pin number 4 is connected to the ground pad for some thermal mass.
+On the front side there is only the sensor itself while all the other parts are on the back. This ensures good optical contact and light-tight sealing.
 
 The PCB includes some generic SiPM (like the [MicroFC SiPM](https://www.onsemi.com/pub/Collateral/AND9782-D.PDF)) that is optional to use. Enable it by closing the solder jumper `JP1` and then soldering wires to the `VCC` and `GND` pin respectively. The SiPM signal will be anode `A` pad.
 
