@@ -1,5 +1,7 @@
 # AFBR SiPM Carrier Board
 
+**Attention EOL: The AFBR-S4N66C013 SiPM is scheduled for obsolescence and will be discontinued by the manufacturer. It is therefore not recommended for new designs.**
+
 Carrier board for a 6 mm AFBR-S4N66C013 silicon photomultiplier by [Broadcom](https://docs.broadcom.com/doc/AFBR-S4N66C013-NUV-HD-Single-Silicon-Photo-Multiplier-DS) designed specifically to work with the [Open Gamma Detector](https://github.com/OpenGammaProject/Open-Gamma-Detector).
 
 PCB size is 18 x 18 mm. You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/boards/github.com/opengammaproject/AFBR-SiPM-Carrier-Board/).
